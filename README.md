@@ -1,13 +1,11 @@
 # /r/pics
 
 ## deployed
-Access the deployed app [here](https://app.netlify.com/sites/jolly-hoover-b29a5c)
-
-
+This app was originally deployed, but reddit aggressively blocks larger hosting sites it appears. This still works when running locally, see below.
 
 ## run locally
 1. `npm i`
-1. `npm start`
+2. `npm start`
 
 ## Requirements:
 - [x] The page has a list of items corresponding to an entry in the fetched data
