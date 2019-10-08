@@ -18,7 +18,7 @@ Not required, but nice to haves:
   - Both context and hooks are used here for state management. The use of context here is a bit contrived with this app being smaller, but would be useful for extending in the future.
 
 ## Next Steps
-- [ ] make design mroe responsive
+- [ ] make design more responsive
 - [ ] reset hidden `posts`
 - [ ] write in TypeScript
 - [ ] implement styled components
