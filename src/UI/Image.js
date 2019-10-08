@@ -10,7 +10,6 @@ function Image({
 }) {
   return (
     <div
-      key={index}
       className="post"
       onClick={() => handleSelection(index)}
       style={{

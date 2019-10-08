@@ -38,6 +38,7 @@ function ImageList() {
             posts.map((post, index) =>
               hidden.includes(index) ? null : (
                 <Image
+                  key={index}
                   {...{
                     setSelected,
                     index,
